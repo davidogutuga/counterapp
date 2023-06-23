@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+}
+section {
+    display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+}
+.container {
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 3rem;
+    border-radius: 15px 15px;
+    width:50%;
+}
+h2 {
+    font-size:2rem;
+}
+button {
+    padding: 5px 15px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px 10px;
+    font-size: 1.5rem;
+    box-shadow: 1px 3px 10px rgb(193, 190, 176);
+}
+p {
+    font-size: 3rem;
+    font-weight: 900;
+}
